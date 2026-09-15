@@ -1,0 +1,6 @@
+{
+  "name": "NOORÉA",
+  "description": "Discover thoughtfully designed lawn and women’s wear that brings together timeless elegance, contemporary style, and everyday comfort.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
